@@ -196,6 +196,9 @@ footer #nondisclaimer .social .fa-instagram {
     background-color: #fff;
     border-radius: 50%;
   }
+  #home header {
+   background-size: 100%;
+}
 }
 
 @media (min-width: 768px) {
